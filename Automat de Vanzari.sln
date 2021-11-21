@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automat de Vanzari", "Automat de Vanzari\Automat de Vanzari.csproj", "{390B6F62-8FC0-4CE0-96FF-80CA59C16940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390B6F62-8FC0-4CE0-96FF-80CA59C16940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390B6F62-8FC0-4CE0-96FF-80CA59C16940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390B6F62-8FC0-4CE0-96FF-80CA59C16940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390B6F62-8FC0-4CE0-96FF-80CA59C16940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D452CB69-1BD3-4146-839A-02A8E0877AE2}
+	EndGlobalSection
+EndGlobal
